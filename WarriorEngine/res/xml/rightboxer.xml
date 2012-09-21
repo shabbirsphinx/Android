@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animations>
+	<animation name="idle" canLoop="true" > 
+<!-- 		<framerect top="4" left="85" bottom="58" right="115" delayNextFrame="10" />  -->
+<!-- 		<framerect top="4" left="122" bottom="58" right="153" delayNextFrame="10" />  -->
+<!-- 		<framerect top="4" left="161" bottom="58" right="190" delayNextFrame="5" /> -->
+<!-- 		<framerect top="4" left="199" bottom="58" right="228" delayNextFrame="5" />  -->
+<!-- 		<framerect top="4" left="237" bottom="58" right="268" delayNextFrame="5" />  -->
+<!-- 		<framerect top="4" left="276" bottom="58" right="307" delayNextFrame="5" /> -->
+<!-- 		<framerect top="4" left="85" bottom="58" right="115" delayNextFrame="60" />  -->
+		<framerect top="11" left="27" bottom="210" right="174" delayNextFrame="20" /> 
+		<framerect top="11" left="201" bottom="210" right="391" delayNextFrame="20" /> 
+		<framerect top="11" left="415" bottom="210" right="557" delayNextFrame="20" />
+		<framerect top="11" left="588" bottom="210" right="710" delayNextFrame="20" /> 
+		<framerect top="11" left="750" bottom="210" right="890" delayNextFrame="20" /> 
+
+<!-- 27 11 174 210 -->
+<!-- 201 11  391 210 -->
+<!-- 415 11 557 210 -->
+<!-- 588 11 710 210 -->
+<!-- 750 11 890 210 -->
+		<collisionrect top="10" left="5" bottom="40" right="20" />
+	</animation>
+	
+</animations>

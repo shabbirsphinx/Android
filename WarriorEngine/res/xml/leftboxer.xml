@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animations>
+	<animation name="idle" canLoop="true" > 
+<!-- 		<framerect top="4" left="85" bottom="58" right="115" delayNextFrame="10" />  -->
+<!-- 		<framerect top="4" left="122" bottom="58" right="153" delayNextFrame="10" />  -->
+<!-- 		<framerect top="4" left="161" bottom="58" right="190" delayNextFrame="5" /> -->
+<!-- 		<framerect top="4" left="199" bottom="58" right="228" delayNextFrame="5" />  -->
+<!-- 		<framerect top="4" left="237" bottom="58" right="268" delayNextFrame="5" />  -->
+<!-- 		<framerect top="4" left="276" bottom="58" right="307" delayNextFrame="5" /> -->
+<!-- 		<framerect top="4" left="85" bottom="58" right="115" delayNextFrame="60" />  -->
+<!-- 		Top -->
+		<framerect top="11" left="27" bottom="210" right="174" delayNextFrame="20" /> 
+		<framerect top="11" left="201" bottom="210" right="391" delayNextFrame="20" /> 
+		<framerect top="11" left="415" bottom="210" right="557" delayNextFrame="20" />
+		<framerect top="11" left="588" bottom="210" right="710" delayNextFrame="20" /> 
+		<framerect top="11" left="750" bottom="210" right="890" delayNextFrame="20" /> 
+<!-- 		Middle -->
+		<framerect top="267" left="35" bottom="410" right="157" delayNextFrame="20" /> 
+		<framerect top="267" left="202" bottom="410" right="350" delayNextFrame="20" /> 
+		<framerect top="267" left="400" bottom="410" right="620" delayNextFrame="20" />
+<!-- 		Bottom -->		
+		<framerect top="460" left="25" bottom="650" right="120" delayNextFrame="20" /> 
+		<framerect top="460" left="180" bottom="650" right="350" delayNextFrame="20" /> 
+		<framerect top="460" left="380" bottom="650" right="510" delayNextFrame="20" /> 
+		<framerect top="460" left="570" bottom="650" right="700" delayNextFrame="20" />
+		<framerect top="460" left="730" bottom="650" right="870" delayNextFrame="20" /> 
+		<framerect top="460" left="900" bottom="650" right="1020" delayNextFrame="20" /> 
+		
+<!-- Top of sprite -->
+<!-- 27 11 174 210 -->
+<!-- 201 11  391 210 -->
+<!-- 415 11 557 210 -->
+<!-- 588 11 710 210 -->
+<!-- 750 11 890 210 -->
+
+<!-- Middle of sprite -->
+<!-- 35 267 157 410 -->
+<!-- 202 264 350 410 -->
+<!-- 400 270 620 410 -->
+
+<!-- Bottom of sprite -->
+<!-- 25 460 120 650 -->
+<!-- 180 460 350 650 -->
+<!-- 380 460 510 650 -->
+<!-- 570 460 700 650 -->
+<!-- 730 460 870 650 -->
+<!-- 900 460 1020 650 -->
+		<collisionrect top="10" left="5" bottom="40" right="20" />
+	</animation>
+	
+</animations>
